@@ -23,11 +23,11 @@ Instead of copying files, you can install this module directly from Git into you
 1. **Install the package:**
    Using `pip`:
    ```bash
-   pip install git+https://github.com/YOUR_GITHUB_USERNAME/upstox-login-module.git
+   pip install git+https://github.com/n1ghthawk/upstox-login-module.git
    ```
    Or using `uv`:
    ```bash
-   uv add git+https://github.com/YOUR_GITHUB_USERNAME/upstox-login-module.git
+   uv add git+https://github.com/n1ghthawk/upstox-login-module.git
    ```
 
 2. **Configure Credentials:**
